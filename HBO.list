@@ -1,0 +1,18 @@
+# NAME: HBOUSA
+
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,h264.io
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,prd.api.discomax.com
+DOMAIN-SUFFIX,media.max.com
+DOMAIN-SUFFIX,prd.api.max.com
+DOMAIN-SUFFIX,max.com
+USER-AGENT,HBOMAX*
+PROCESS-NAME,com.hbo.hbonow
