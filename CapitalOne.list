@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,capitalone.com,DIRECT
+DOMAIN-SUFFIX,capitalone360.com,DIRECT
+DOMAIN-SUFFIX,capitalonebank.com,DIRECT
+DOMAIN-SUFFIX,capitaloneshopping.com,DIRECT
+DOMAIN-SUFFIX,capitalonegslbex.com,DIRECT
+DOMAIN-SUFFIX,capitalonetravel.com,DIRECT
+DOMAIN-SUFFIX,ivaws.com,DIRECT
+IP-CIDR,204.63.32.0/19,DIRECT
+IP-CIDR,217.169.160.0/20,DIRECT
